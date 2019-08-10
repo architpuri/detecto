@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: detecto
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Archit
+Implementation-Vendor-Id: com.aptechnolo.detecto
+Build-Jdk: 1.8.0_192
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/detecto
+Created-By: Maven Integration for Eclipse
+
